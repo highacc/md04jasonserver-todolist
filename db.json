@@ -1,9 +1,19 @@
 {
-  "tarefas": [
+  "todos": [
     {
       "id": 1,
-      "descricao": "Fazer primeiro Commit",
-      "finalizada": false
-    }    
+      "nome": "uma",
+      "valor": "10",
+      "vencimento": "21/07/2022",
+      "status": false
+    },
+    {
+      "id": 2,
+      "name": "duas",
+      "valor": "10",
+      "vencimento": "21/07/2022",
+      "status": false
+    }
+   
   ]
 }
