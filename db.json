@@ -9,7 +9,7 @@
     },
     {
       "id": 2,
-      "name": "duas",
+      "nome": "duas",
       "valor": "10",
       "vencimento": "21/07/2022",
       "status": false
